@@ -1,4 +1,4 @@
-package com.example.kstartup_forum
+package com.kstartup.forum
 
 import io.flutter.embedding.android.FlutterActivity
 

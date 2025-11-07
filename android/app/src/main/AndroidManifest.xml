@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="kstartup_forum"
+        android:label="코리아스타트업포럼"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
